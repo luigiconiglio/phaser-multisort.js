@@ -5,7 +5,7 @@ Phaser support only a basic sort function for groups, this function can sort jus
 
 This simple script allows you to perform a sort function considering not only the children of the group but also the children of all the nested groups, and get them rendered in the order you want even if they actually belong to different groups.
 
-This solution has been inspired by [this discussion](http://www.html5gamedevs.com/topic/3085-depth-sort-multiple-groups) and in particular by [this post](www.html5gamedevs.com/topic/3085-depth-sort-multiple-groups/#post_id_34989).
+This solution has been inspired by [this discussion](http://www.html5gamedevs.com/topic/3085-depth-sort-multiple-groups) and in particular by [this post](http://www.html5gamedevs.com/topic/3085-depth-sort-multiple-groups/#post_id_34989).
 
 I also suggest to have a look to the [Phaser Isometric plug-in](http://rotates.org/phaser/iso/) especially if you are looking for more complex features.
 
